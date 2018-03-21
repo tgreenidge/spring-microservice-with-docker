@@ -1,6 +1,6 @@
 CREATE TABLE members (
     id SERIAL,
-    member_id VARCHAR(50) NOT NULL,
+    pscu_id VARCHAR(50) NOT NULL,
     ledger_id VARCHAR(50),
     first_name VARCHAR(50),
     last_name VARCHAR(50),
