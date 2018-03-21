@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8918de72-7b80-40e9-bb8a-7879f78d53a2" name="Default" comment="" />
+    <list default="true" id="8918de72-7b80-40e9-bb8a-7879f78d53a2" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/claims-api/src/main/resources/application-dev.properties" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/api-gateway/cache/caches/4.5.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/api-gateway/cache/caches/4.5.1/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/api-gateway/cache/caches/modules-2/modules-2.lock" afterPath="$PROJECT_DIR$/api-gateway/cache/caches/modules-2/modules-2.lock" />
+      <change beforePath="$PROJECT_DIR$/api-gateway/cache/caches/transforms-1/transforms-1.lock" afterPath="$PROJECT_DIR$/api-gateway/cache/caches/transforms-1/transforms-1.lock" />
+      <change beforePath="$PROJECT_DIR$/api-gateway/cache/daemon/4.5.1/daemon-27.out.log" afterPath="$PROJECT_DIR$/api-gateway/cache/daemon/4.5.1/daemon-27.out.log" />
+      <change beforePath="$PROJECT_DIR$/api-gateway/cache/daemon/4.5.1/registry.bin" afterPath="$PROJECT_DIR$/api-gateway/cache/daemon/4.5.1/registry.bin" />
+      <change beforePath="$PROJECT_DIR$/api-gateway/cache/daemon/4.5.1/registry.bin.lock" afterPath="$PROJECT_DIR$/api-gateway/cache/daemon/4.5.1/registry.bin.lock" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" afterPath="$PROJECT_DIR$/docker-compose.yml" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/cache/caches/4.5.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/eureka-server/cache/caches/4.5.1/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/cache/caches/modules-2/modules-2.lock" afterPath="$PROJECT_DIR$/eureka-server/cache/caches/modules-2/modules-2.lock" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/cache/caches/transforms-1/transforms-1.lock" afterPath="$PROJECT_DIR$/eureka-server/cache/caches/transforms-1/transforms-1.lock" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/cache/daemon/4.5.1/registry.bin" afterPath="$PROJECT_DIR$/eureka-server/cache/daemon/4.5.1/registry.bin" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/cache/daemon/4.5.1/registry.bin.lock" afterPath="$PROJECT_DIR$/eureka-server/cache/daemon/4.5.1/registry.bin.lock" />
+      <change beforePath="$PROJECT_DIR$/members-api/cache/caches/4.5.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/members-api/cache/caches/4.5.1/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/members-api/cache/caches/modules-2/modules-2.lock" afterPath="$PROJECT_DIR$/members-api/cache/caches/modules-2/modules-2.lock" />
+      <change beforePath="$PROJECT_DIR$/members-api/cache/caches/transforms-1/transforms-1.lock" afterPath="$PROJECT_DIR$/members-api/cache/caches/transforms-1/transforms-1.lock" />
+      <change beforePath="$PROJECT_DIR$/members-api/cache/daemon/4.5.1/registry.bin" afterPath="$PROJECT_DIR$/members-api/cache/daemon/4.5.1/registry.bin" />
+      <change beforePath="$PROJECT_DIR$/members-api/cache/daemon/4.5.1/registry.bin.lock" afterPath="$PROJECT_DIR$/members-api/cache/daemon/4.5.1/registry.bin.lock" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +35,8 @@
       <file leaf-file-name="docker-compose.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docker-compose.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+            <state relative-caret-position="507">
+              <caret line="52" column="36" lean-forward="false" selection-start-line="52" selection-start-column="36" selection-end-line="52" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -35,7 +56,7 @@
         <entry file="file://$PROJECT_DIR$/members-api/src/main/java/com/example/membersapi/MembersApiApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -44,6 +65,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -72,10 +96,11 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="284" />
+    <option name="y" value="123" />
     <option name="width" value="1280" />
     <option name="height" value="716" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -105,66 +130,7 @@
             <path>
               <item name="pscu-microservices" type="b2602c69:ProjectViewProjectNode" />
               <item name="pscu-microservices" type="462c0819:PsiDirectoryNode" />
-              <item name="members-api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pscu-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pscu-microservices" type="462c0819:PsiDirectoryNode" />
-              <item name="members-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pscu-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pscu-microservices" type="462c0819:PsiDirectoryNode" />
-              <item name="members-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pscu-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pscu-microservices" type="462c0819:PsiDirectoryNode" />
-              <item name="members-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pscu-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pscu-microservices" type="462c0819:PsiDirectoryNode" />
-              <item name="members-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pscu-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pscu-microservices" type="462c0819:PsiDirectoryNode" />
-              <item name="members-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pscu-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pscu-microservices" type="462c0819:PsiDirectoryNode" />
-              <item name="members-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="membersapi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pscu-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pscu-microservices" type="462c0819:PsiDirectoryNode" />
-              <item name="members-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="claims-api" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -285,16 +251,15 @@
       <option name="presentableId" value="Default" />
       <updated>1521590730720</updated>
       <workItem from="1521590732137" duration="526000" />
-      <workItem from="1521592327227" duration="702000" />
+      <workItem from="1521592327227" duration="1505000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1228000" />
+    <option name="totallyTimeSpent" value="2031000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="284" width="1280" height="716" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="123" width="1280" height="716" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -304,11 +269,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -343,14 +308,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/members-api/src/main/resources/application-dev.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -359,10 +316,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="52" column="36" lean-forward="false" selection-start-line="52" selection-start-column="36" selection-end-line="52" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/members-api/src/main/java/com/example/membersapi/MembersApiApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
