@@ -432,3 +432,6 @@ Download https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.22.Final
 [2m2018-03-21 01:15:04.954[0;39m [32m INFO[0;39m [35m69[0;39m [2m---[0;39m [2m[nio-8082-exec-1][0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/]      [0;39m [2m:[0;39m Initializing Spring FrameworkServlet 'dispatcherServlet'
 [2m2018-03-21 01:15:04.955[0;39m [32m INFO[0;39m [35m69[0;39m [2m---[0;39m [2m[nio-8082-exec-1][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m FrameworkServlet 'dispatcherServlet': initialization started
 [2m2018-03-21 01:15:05.066[0;39m [32m INFO[0;39m [35m69[0;39m [2m---[0;39m [2m[nio-8082-exec-1][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m FrameworkServlet 'dispatcherServlet': initialization completed in 111 ms
+[2m2018-03-21 01:18:39.580[0;39m [32m INFO[0;39m [35m69[0;39m [2m---[0;39m [2m[trap-executor-0][0;39m [36mc.n.d.s.r.aws.ConfigClusterResolver     [0;39m [2m:[0;39m Resolving eureka endpoints via configuration
+[2m2018-03-21 01:23:39.582[0;39m [32m INFO[0;39m [35m69[0;39m [2m---[0;39m [2m[trap-executor-0][0;39m [36mc.n.d.s.r.aws.ConfigClusterResolver     [0;39m [2m:[0;39m Resolving eureka endpoints via configuration
+thread 14: client disconnection detected, canceling the build
