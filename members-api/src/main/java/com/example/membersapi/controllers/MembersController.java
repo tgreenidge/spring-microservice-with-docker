@@ -17,4 +17,21 @@ public class MembersController {
     public Iterable<Member> findAllMembers() {
         return memberRepository.findAll();
     }
+
+    @GetMapping("/members/{memberId}")
+    public Member findMemberById(@PathVariable Long memberId) {
+        return memberRepository.findOne(memberId);
+    }
+
+    @DeleteMapping("/members/{memberId}")
+    public HttpStatus deleteMemberById(@PathVariable Long memberId) {
+        memberRepository.delete(memberId);
+        return HttpStatus.OK;
+    }
+
+    @PostMapping("/members")
+    public HttpStatus createNewMember(@RequestBody Member newMember) {
+        memberRepository.save(newMember);
+        return HttpStatus.OK;
+    }
 }

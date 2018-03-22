@@ -10,10 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 @EnableEurekaClient
 @RestController
 public class MembersApiApplication {
-	@RequestMapping("/")
-	public String home() {
-		return "some members";
-	}
 
 	public static void main(String[] args) {
 		SpringApplication.run(MembersApiApplication.class, args);

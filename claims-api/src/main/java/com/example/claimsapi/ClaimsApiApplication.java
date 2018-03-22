@@ -10,11 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 @EnableEurekaClient
 @RestController
 public class ClaimsApiApplication {
-	@RequestMapping("/")
-	public String home() {
-		return "some claims";
-	}
-
 	public static void main(String[] args) {
 		SpringApplication.run(ClaimsApiApplication.class, args);
 	}
